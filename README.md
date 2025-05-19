@@ -1,4 +1,6 @@
 CineScope
+
+
 🎬 A sleek movie discovery app that fetches movies via API, displays posters, titles, and release years, and allows users to search and add movies to their favourites.
 
 CineScope is a modern movie explorer web app built with React + Vite . Users can browse through a dynamic list of movies, view key details like posters and release years, search for specific titles, and save their favourites for quick access.
