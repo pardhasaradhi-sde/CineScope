@@ -1,12 +1,17 @@
-# React + Vite
+CineScope
+🎬 A sleek movie discovery app that fetches movies via API, displays posters, titles, and release years, and allows users to search and add movies to their favourites.
+CineScope is a modern movie explorer web app built with React + Vite . Users can browse through a dynamic list of movies, view key details like posters and release years, search for specific titles, and save their favourites for quick access.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features:
 
-Currently, two official plugins are available:
+Movie data fetched via API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Poster, title, and release year display
 
-## Expanding the ESLint configuration
+Real-time search functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Add to favourites
+
+Clean and responsive UI
+
+🔧 Built for learning, creativity, and showcasing front-end + API integration skills.
